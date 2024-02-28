@@ -1,0 +1,21 @@
+{
+    "positions": [{
+            "name": "Rabat",
+            "positionX": 33.971590,
+            "positionY": -6.849812,
+            "centrality": 10
+        },
+        {
+            "name": "Casa Voyageurs",
+            "positionX": 33.593067,
+            "positionY": -7.616796,
+            "centrality": 30
+        },
+        {
+            "name": "Ain Diab",
+            "positionX": 33.599730,
+            "positionY": -7.684525,
+            "centrality": 10
+        }
+    ]
+}
